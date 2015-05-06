@@ -1,0 +1,36 @@
+.step {
+  .clearfix();
+
+  border-bottom: 1px solid @gray-light;
+  padding-bottom: @line-height-computed / .75;
+  margin-top: @line-height-computed * 2;
+
+  h1 {
+    @media (min-width: @screen-sm-min) {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    font-family: @font-family-serif-2;
+    line-height: 1.7;
+  }
+
+  .well {
+    margin-top: @line-height-computed;
+    .clearfix();
+
+    p {
+      font-family: @font-family-sans-serif;
+
+      strong {
+        font-size: 16px;
+      }
+    }
+
+    .fa {
+      .pull-left();
+      margin-right: 12px;
+    }
+  }
+}

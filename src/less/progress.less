@@ -1,0 +1,57 @@
+.navbar {
+  z-index: 10;
+}
+
+#progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
+  z-index: 5;
+  width: 100%;
+
+  border-bottom: 1px solid @gray-light;
+}
+
+#progress {
+  li {
+    float: left;
+
+    .fa-dot-circle-o {
+      display: none;
+    }
+
+    a {
+      padding: 2px 25px;
+
+      &:first-child {
+        padding-left: 0;
+      }
+
+      &:hover,
+      &:focus {
+        background: transparent;
+      }
+
+      .fa-stack {
+        width: 17px;
+        margin-right: 2px;
+      }
+
+      .label {
+        color: @gray;
+      }
+    }
+
+    &.active {
+      .fa-dot-circle-o {
+        display: block;
+      }
+
+      .label {
+        color: black;
+        font-weight: bold;
+      }
+    }
+  }
+}
