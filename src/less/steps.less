@@ -6,7 +6,23 @@
   padding-bottom: @line-height-computed / .75;
   margin-top: @line-height-computed * 2;
 
+
   h1 {
+    @media (min-width: @screen-sm-min) {
+      margin-top: 0;
+    }
+  }
+
+  h2 {
+      font-size: 24px;
+      font-weight: bold;
+
+       + h3 {
+        // Pull subheds up next to the heds
+        font-size: 18px;
+        margin-top: -5px;
+        margin-bottom: @line-height-computed;
+      }
     @media (min-width: @screen-sm-min) {
       margin-top: 0;
     }
