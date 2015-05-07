@@ -121,7 +121,7 @@
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>The appraisal base date</h2>
-        <h3>Step 1: Jan. 1</h3>
+        <h3>Jan. 1</h3>
         <p>Your home’s appraised value for the year is based on its condition – and what the property could sell for – on this date. Keep in mind, the appraisal district arrives at a figure by calculating the market value of your property. And your home’s condition on Jan. 1 is key as you look at factors that may affect the value. Any damage or improvements after this date – say, a tree that falls on your roof in March, or the new bathroom you added in May – won’t affect the taxable value of your home this year.</p>
       </div>
     </div>
@@ -144,8 +144,8 @@
         <img class="img-responsive" src="assets/step03-tcad.jpg" />
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
-        <h2>Step 3: May 31</h2>
-        <h3>Protest deadline</h3>
+        <h2>Protest deadline</h2>
+        <h3>May 31</h3>
         <p>This is the usual deadline for filing a “Notice of Protest” of your appraised value; since that date falls on a weekend this year, the notice can be filed on the next business day, which is Monday, June 1. What’s the best way to file? You have a couple of options. You can use the form on the back of the “Notice of Appraised Value” that you received from the appraisal district, since it already has your account information printed on it. Or you may be able to file your protest online. In Travis County, go to <a href="http://www.traviscad.org"> traviscad.org</a> and click on E-File. Williamson County residents can go to <a href="www.wcad.org">wcad.org</a> and click on “Online Protests,” while Hays County residents can do the same at <a href="http://www.hayscad.com">hayscad.com</a>. The benefit of online protesting is that appraisal district staffers can review your information and decide whether to offer you a settlement, potentially <a href="http://www.traviscad.org/video/eFile/how_to_efile_player.html">without you having to attend a hearing at all</a>.</p>
         <p>As you’re filling out the form, pay particular attention to the step in which you check off the box or boxes stating the reason for your protest. Your choices here will affect what kind of evidence you can present later on. If the district listed the wrong square footage for your home, for instance, be sure to check “property description is incorrect.” If you think your value is out of step with similar homes, make sure to mark “Value is unequal compared with other properties.”</p>
         <p>For typical homeowners challenging their appraisal, the Texas Comptroller’s office suggests checking “Value is over market value” and “Value is unequal compared with other properties.” That will “allow you to present the widest types of evidence and preserve your full appeal rights,” the agency says in its handout on “<a href="http://www.window.state.tx.us/taxinfo/proptax/pdf/96-295.pdf">Property Taxpayer Remedies</a>.”</p>
@@ -156,9 +156,9 @@
     <div id="step4" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
         <img class="img-responsive" src="assets/step04-hearing01.jpg" />
-        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN A line of people wait for an informal hearing to contest the new appraisals at the Travis County Appraisal District. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</p>
-        <img class="img-responsive" src="assets/step04-informal.jpg" />
-        <p class="caption"><!-- David Kennedy/AA-S  5/19/00 Tax appraisals at the Travis Central Appraisal District office David Kuenneke, left, protest his property tax appraisal in  an informal hearing with appraiser Greg Mahan.  --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2000</p>
+        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN A line of people wait for an informal hearing to contest the new appraisals at the Travis County Appraisal District. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</span></p>
+        <div class="hidden-xs"><img class="img-responsive" src="assets/step04-informal.jpg" />
+        <p class="caption"><!-- David Kennedy/AA-S  5/19/00 Tax appraisals at the Travis Central Appraisal District office David Kuenneke, left, protest his property tax appraisal in  an informal hearing with appraiser Greg Mahan.  --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2000</span></p></div>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Informal meeting</h2>
@@ -175,7 +175,7 @@
     <div id="step5" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
         <img class="img-responsive" src="assets/step05-hearing02.jpg" />
-        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN Tom Poterek, left is sworn in by the appraisal review board during a formal hearing regarding the value of Poterek's home.  Appraisal review board members are from left, Jim Irion, Holland Brown and Mary E. Moreno.  On right, representing the Appraisal District, is Mitch Fast.  Poterek was successful in lowering the appraisal for his property. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</p>
+        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN Tom Poterek, left is sworn in by the appraisal review board during a formal hearing regarding the value of Poterek's home.  Appraisal review board members are from left, Jim Irion, Holland Brown and Mary E. Moreno.  On right, representing the Appraisal District, is Mitch Fast.  Poterek was successful in lowering the appraisal for his property. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</span></p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>The big day</h2>
@@ -188,7 +188,7 @@
     <div id="step6" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
         <img class="img-responsive" src="assets/step06-book.jpg" />
-        <p class="caption"><!-- JUNE 2, 2014 -  A book titled, Real Estate Appraisal sits on an audience member's desk at Travis County Commissioners Court in Austin, Texas, on Monday, June 2, 2014.  Commissioners court went into executive session to discuss the petition to review appraisals. (RODOLFO GONZALEZ / AMERICAN-STATESMAN) --><span class="credit pull-right">Rodolfo Gonzalez / AMERICAN-STATESMAN</p>
+        <p class="caption"><!-- JUNE 2, 2014 -  A book titled, Real Estate Appraisal sits on an audience member's desk at Travis County Commissioners Court in Austin, Texas, on Monday, June 2, 2014.  Commissioners court went into executive session to discuss the petition to review appraisals. (RODOLFO GONZALEZ / AMERICAN-STATESMAN) --><span class="credit pull-right">Rodolfo Gonzalez / AMERICAN-STATESMAN</span></p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Wrapping up</h2>
