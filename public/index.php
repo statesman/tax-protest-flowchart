@@ -84,16 +84,16 @@
         <p>Published Sunday, May 9, 2015</p>
         <p class="author">By Andra Lim, Bridget Grumet, Andrew Chavez and Christian McDonald</p>
         <p>If you’re still reeling from the sticker shock of this year’s property appraisal notice, you may be considering challenging the appraisal. You could hire a firm to handle the challenge for you; typically they only get paid if they succeed in cutting your taxable value. Or you could handle the appeal yourself. Here’s how the process works:</p>
-        <p><span>Related:</span> <a target="_blank" href="">Headline <i class="fa fa-angle-double-right"></i></a></p>
+        <p><span>Related:</span> <a target="_blank" href="">Headline to related story<i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <?php $dots = array(
         'step1' => 'Appraisal date',
         'step2' => 'Notices',
         'step3' => 'Protest deadline',
-        'step4' => 'Step 4',
-        'step5' => 'Step 5',
-        'step6' => 'Step 6'
+        'step4' => 'Meeting',
+        'step5' => 'Hearing',
+        'step6' => 'Wrap up'
         ); ?>
 
       <div id="progress-bar" class="col-xs-12 hidden-xs">
@@ -116,7 +116,8 @@
     </div>
     <div id="step1" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step01-homes.jpg" />
+        <p class="caption"><!-- Kim Renner has renovated two homes in Hemphill Park and is beginning a new project in Aldridge Place.  Her projects have been featured on Martha Stewart Living, Austin Monthly Home, and Metropolitan Home Magazines. --> <span class="credit pull-right">Julia Robinson/FOR AMERICAN-STATESMAN</span></p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>The appraisal base date</h2>
@@ -127,7 +128,8 @@
 
     <div id="step2" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step02-mail.jpg" />
+        <p class="caption"><!-- 5/11/05 Ralph Barrera/AMERICAN-STATESMAN; A major trend is happening in older neighborhoods throughout central Austin. Older homes are being replaced with newer and bigger models spurring a sharp rise in property values. Johanna Street in south Austin off of S. 1st St. is one such area. In the 600 block of W. Johanna St. there are many new homes. Jennifer Yeggoni and her husband Mohan recently purchased and moved into their new home only a month ago. "We feel bad that we're sort of the cause of gentrification, but at the same time we're so excited to have this house and live in such a diverse neighborhood.", said Jennifer.  The couple moved from Cedar Park to central Austin. "Suburbia was nice, but it wasn't what we ultimately wanted. I grew up in the barrios of Lubbock, TX. and neighborhood diversity is what we were looking for." (Toohey story) ORG XMIT:  --><span class="credit pull-right">Ralph Barrera/AMERICAN-STATESMAN</span></p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Appraisal notices arrive</h2>
@@ -139,7 +141,7 @@
 
     <div id="step3" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step03-tcad.jpg" />
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Step 3: May 31</h2>
@@ -153,23 +155,27 @@
 
     <div id="step4" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step04-hearing01.jpg" />
+        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN A line of people wait for an informal hearing to contest the new appraisals at the Travis County Appraisal District. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</p>
+        <img class="img-responsive" src="assets/step04-informal.jpg" />
+        <p class="caption"><!-- David Kennedy/AA-S  5/19/00 Tax appraisals at the Travis Central Appraisal District office David Kuenneke, left, protest his property tax appraisal in  an informal hearing with appraiser Greg Mahan.  --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2000</p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Informal meeting</h2>
         <h3>June 1</h3>
         <p>The appraisal review board – or ARB, if you’re into acronyms – is already meeting on the first appeals through the gate. But we’re getting ahead of ourselves.</p>
         <p>Once you’ve filed your “Notice of Protest,” the Travis Central Appraisal District will send you a letter with two dates: an informal meeting with an appraisal staffer and your formal hearing date with the ARB, a group of independent residents appointed to hear these challenges. During the informal meeting, the staffer will review the numbers with you. Bring all of your documentation: Information on comparable homes (records are available on the appraisal district’s website), perhaps an independent appraisal if you recently refinanced your house, or photos, repair estimates and other records showing damage that may devalue your home. Once you and a staffer have hashed it out, the district may offer to reduce your value by a certain amount. If you’re satisfied, you can accept it.</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>NUMBER of protests resolved through staff in 2015, total amount of those reductions and average reduction per home and per commercial site</p></div>
         <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>NUMBER of protests dropped by property owners in 2015</p></div>
         <p>If not, you can keep your date with the ARB, or technically, with a three-member panel of ARB members. Before that hearing, you have a right to see all of the information the district appraisers plan to present, so be sure to contact the appraisal district to request those documents.</p>
         <p>In Travis County, typically two weeks pass between the informal meeting with staff and the ARB hearing. In Williamson and Hays counties, that meeting with a staffer usually happens the same day as the ARB hearing. Either way, the same process applies: If you’re satisfied with the outcome after meeting with the staffer, you can forego the ARB hearing.</p>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>NUMBER of protests resolved through staff in 2015, total amount of those reductions and average reduction per home and per commercial site</p></div>
        </div>
     </div>
 
     <div id="step5" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step05-hearing02.jpg" />
+        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN Tom Poterek, left is sworn in by the appraisal review board during a formal hearing regarding the value of Poterek's home.  Appraisal review board members are from left, Jim Irion, Holland Brown and Mary E. Moreno.  On right, representing the Appraisal District, is Mitch Fast.  Poterek was successful in lowering the appraisal for his property. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>The big day</h2>
@@ -181,7 +187,8 @@
 
     <div id="step6" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
-        <img class="img-responsive" src="http://placehold.it/600x400" />
+        <img class="img-responsive" src="assets/step06-book.jpg" />
+        <p class="caption"><!-- JUNE 2, 2014 -  A book titled, Real Estate Appraisal sits on an audience member's desk at Travis County Commissioners Court in Austin, Texas, on Monday, June 2, 2014.  Commissioners court went into executive session to discuss the petition to review appraisals. (RODOLFO GONZALEZ / AMERICAN-STATESMAN) --><span class="credit pull-right">Rodolfo Gonzalez / AMERICAN-STATESMAN</p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Wrapping up</h2>
