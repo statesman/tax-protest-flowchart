@@ -10,14 +10,12 @@ An interactive about how tax protests work based on the singe-page project repo.
 
 
 
+-----------------------
 
 Single-page project
 ==============================
 
 Framework for a single page project, though it could be multiple pages. Just less complex than our immersive-template setup
-
-## Steps when you set up a project
-
 
 * use `package.json` and `npm install`
 * use `bower.json` and `bower install`

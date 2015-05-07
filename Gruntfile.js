@@ -93,10 +93,10 @@ module.exports = function(grunt) {
         auth: {
           host: 'host.coxmediagroup.com',
           port: 21,
-          authKey: 'key1'
+          authKey: 'cmg'
         },
         src: 'public',
-        dest: '/stage_aas/projects/single-use-project',
+        dest: '/stage_aas/projects/news/tax-protest-workflow/',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: false,
         useList: false
@@ -109,7 +109,7 @@ module.exports = function(grunt) {
           authKey: 'key1'
         },
         src: 'public',
-        dest: '/stage_aas/projects/single-use-project-prod/',
+        dest: '/stage_aas/projects/news/tax-protest-workflow/',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: false,
         useList: false
