@@ -111,8 +111,8 @@
           </ul>
         </div>
       </div>
-
-      <div id="step1" class="step">
+    </div>
+      <div id="step1" class="step row">
         <div class="col-xs-12 col-sm-3 col-md-4">
           <img class="img-responsive" src="http://placehold.it/600x400" />
         </div>
@@ -123,7 +123,7 @@
         </div>
       </div>
 
-      <div id="step2" class="step">
+      <div id="step2" class="step row">
         <div class="col-xs-12 col-sm-3 col-md-4">
           <img class="img-responsive" src="http://placehold.it/600x400" />
         </div>
@@ -135,7 +135,7 @@
         </div>
       </div>
 
-      <div id="step3" class="step">
+      <div id="step3" class="step row">
         <div class="col-xs-12 col-sm-3 col-md-4">
           <img class="img-responsive" src="http://placehold.it/600x400" />
         </div>
@@ -146,7 +146,7 @@
          </div>
       </div>
 
-      <div id="step4" class="step">
+      <div id="step4" class="step row">
         <div class="col-xs-12 col-sm-3 col-md-4">
           <img class="img-responsive" src="http://placehold.it/600x400" />
         </div>
