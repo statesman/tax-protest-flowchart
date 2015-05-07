@@ -96,7 +96,7 @@ module.exports = function(grunt) {
           authKey: 'cmg'
         },
         src: 'public',
-        dest: '/stage_aas/projects/news/tax-protest-workflow/',
+        dest: '/stage_aas/projects/news/tax-protest-flowchart/',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: false,
         useList: false
@@ -109,7 +109,7 @@ module.exports = function(grunt) {
           authKey: 'key1'
         },
         src: 'public',
-        dest: '/stage_aas/projects/news/tax-protest-workflow/',
+        dest: '/stage_aas/projects/news/tax-protest-flowchart/',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: false,
         useList: false
