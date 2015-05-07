@@ -75,7 +75,8 @@ module.exports = function(grunt) {
         livereload: true
       },
       markup: {
-        files: ['public/*.php','public/includes/*.inc']
+        files: ['public/*.php','public/includes/*.inc'],
+        tasks: ['bootlint']
       },
       scripts: {
         files: ['src/js/*.js'],

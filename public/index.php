@@ -94,7 +94,7 @@
         'step4' => 'Step 4'
       ); ?>
 
-      <div id="progress-bar">
+      <div id="progress-bar" class="col-xs-12">
         <div id="progress" class="container">
           <ul class="nav">
             <?php foreach($dots as $dot => $label): ?>
