@@ -135,7 +135,7 @@
         <h2>Appraisal notices arrive</h2>
         <h3>Late April</h3>
         <p>A piece of mail arrives from the appraisal district, telling you the value of your home for tax purposes. Look over the numbers carefully. If your property is not described correctly or if the value looks out of whack, you can protest it.</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>NUMBER of notices went to Travis County property owners in 2014.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>395,978: Number of notices mailed to went to Travis County property owners in 2014.</p></div>
       </div>
     </div>
 
@@ -149,8 +149,7 @@
         <p>This is the usual deadline for filing a “Notice of Protest” of your appraised value; since that date falls on a weekend this year, the notice can be filed on the next business day, which is Monday, June 1. What’s the best way to file? You have a couple of options. You can use the form on the back of the “Notice of Appraised Value” that you received from the appraisal district, since it already has your account information printed on it. Or you may be able to file your protest online. In Travis County, go to <a href="http://www.traviscad.org"> traviscad.org</a> and click on E-File. Williamson County residents can go to <a href="www.wcad.org">wcad.org</a> and click on “Online Protests,” while Hays County residents can do the same at <a href="http://www.hayscad.com">hayscad.com</a>. The benefit of online protesting is that appraisal district staffers can review your information and decide whether to offer you a settlement, potentially <a href="http://www.traviscad.org/video/eFile/how_to_efile_player.html">without you having to attend a hearing at all</a>.</p>
         <p>As you’re filling out the form, pay particular attention to the step in which you check off the box or boxes stating the reason for your protest. Your choices here will affect what kind of evidence you can present later on. If the district listed the wrong square footage for your home, for instance, be sure to check “property description is incorrect.” If you think your value is out of step with similar homes, make sure to mark “Value is unequal compared with other properties.”</p>
         <p>For typical homeowners challenging their appraisal, the Texas Comptroller’s office suggests checking “Value is over market value” and “Value is unequal compared with other properties.” That will “allow you to present the widest types of evidence and preserve your full appeal rights,” the agency says in its handout on “<a href="http://www.window.state.tx.us/taxinfo/proptax/pdf/96-295.pdf">Property Taxpayer Remedies</a>.”</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>68,818
-: The number of protests filed in Travis County in 2014 for residential and commercial properties.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>By the numbers</strong></p><p>95,178: The number of protests filed initiated in Travis County in 2014.</p></div>
        </div>
     </div>
 
