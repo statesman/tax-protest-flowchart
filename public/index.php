@@ -123,7 +123,6 @@
         <h2>Your home value starts here</h2>
         <h3>Jan. 1</h3>
         <p>Your home’s appraised value for the year is based on its condition – and what the property could sell for – on this date. Keep in mind, the appraisal district arrives at a figure by calculating the market value of your property. And your home’s condition on Jan. 1 is key as you look at factors that may affect the value. Any damage or improvements after this date – say, a tree that falls on your roof in March, or the new bathroom you added in May – won’t affect the taxable value of your home this year.</p>
-       <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$23.1 billion</strong></p><p>The initial valuation by Travis Central Appraisal District of all residential properties in Travis County in 2014.</p></div>
       </div>
     </div>
 
