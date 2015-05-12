@@ -84,7 +84,7 @@
         <p>Published Sunday, May 10, 2015</p>
         <p class="author">By Andra Lim, Bridget Grumet, Andrew Chavez and Christian McDonald</p>
         <p>If you’re still reeling from the sticker shock of this year’s property appraisal notice, you may be considering challenging the appraisal. You could hire a firm to handle the challenge for you; typically they only get paid if they succeed in cutting your taxable value. Or you could handle the challenge yourself. Here’s how the process works:</p>
-        <!-- <p><span>Related:</span> <a target="_blank" href="">Headline to related story<i class="fa fa-angle-double-right"></i></a></p> -->
+        <p><span>Related:</span> <a target="_blank" href="http://www.mystatesman.com/news/news/local/rising-up-in-protest-why-most-appraisal-challenges/nmCs6/#69d6ad93.257250.735730">Rising up in protest: Why most appraisal challenges in Austin succeed <i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <?php $dots = array(
