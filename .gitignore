@@ -28,6 +28,7 @@ $RECYCLE.BIN/
 node_modules
 .ftppass
 .grunt/
+.slack
 
 ### Bower ###
 bower_components
@@ -56,3 +57,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Build components that don't need to be saved
+dist
