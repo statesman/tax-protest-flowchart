@@ -3,12 +3,14 @@ Tax protest flowchart
 
 An interactive about how tax protests work based on the singe-page project repo.
 
+Was updated on May 2, 2016 with 2015 numbers.
+
+This project uses the JQuery module ScrollSpy to move the dots for different sections
+
 ## Mobile & Social concerns
 
 * Will be built on Bootsrap for mobile-first development.
 * At least the standard share buttons.
-
-
 
 -----------------------
 
