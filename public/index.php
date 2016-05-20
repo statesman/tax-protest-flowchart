@@ -162,7 +162,7 @@
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Step 2: Meet with the appraiser</h2>
-        <h3>June 1</h3>
+        <h3>June</h3>
         <p>The appraisal review board – or ARB, if you’re into acronyms – is already meeting on the first appeals through the gate. But we’re getting ahead of ourselves.</p>
         <p>Once you’ve filed your “Notice of Protest,” the Travis Central Appraisal District will send you a letter with two dates: an informal meeting with an appraisal staffer and your formal hearing date with the ARB, a group of independent residents appointed to hear these challenges. During the informal meeting, the staffer will review the numbers with you. Bring all of your documentation: Information on comparable homes (records are available on the appraisal district’s website), perhaps an independent appraisal if you recently refinanced your house, or photos, repair estimates and other records showing damage that may devalue your home. Once you and a staffer have hashed it out, the district may offer to reduce your value by a certain amount. If you’re satisfied, you can accept it.</p>
         <p>If not, you can keep your date with the ARB, or technically, with a three-member panel of ARB members. Before that hearing, you have a right to see all of the information the district appraisers plan to present, so be sure to contact the appraisal district to request those documents.</p>
@@ -191,7 +191,7 @@
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Still not satisfied?</h2>
-        <h3>July 20</h3>
+        <h3>August</h3>
         <p>Protest hearings typically wrap up by now. But you still have recourse if you’re not satisfied with the ARB decision. If your property is valued at less than $1 million, or if it’s your homestead, regardless of value, you can take your case to binding arbitration. There’s a <a href="http://www.window.state.tx.us/taxinfo/taxforms/ap-219.pdf">form for that</a>, too. You’ll need to file that within 45 days of receiving the ARB decision, and it’ll cost you $500. All but $50 of that will be refunded if you prevail.</p>
         <p>There are two alternatives to arbitration. You can take your appeal to state district court (that challenge must be filed within 60 days of receiving the ARB decision, and you’ll likely need an attorney’s help). Or for properties valued over $ 1 million, you can file an appeal with the State Office of Administrative Hearings (that challenge must be filed within 30 days of receiving the ARB decision). </p>
         <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$6.9B</strong></p><p>The amount of valuation shaved off of Travis County tax rolls through the protest process in 2015. Residential protests accounted for nearly $2.2 billion of that.</p></div>
@@ -207,6 +207,7 @@
           <li><span>DON’T:</span> Give a long, rambling presentation filled with generalizations.</li>
           <li><span>DO:</span> Request in advance the documentation the appraisal district compiled to calculate its appraisal of your property.  Examine the comparable homes used to determine your property’s value. See whether differences in property size, home upgrades or proximity to a busy road, for instance, might make those properties a poor comparison for your home.</li>
         </ul>
+        <p>Updates: Some dates have been changed to reflect Travis Central Appraisal District adjustments to their appraisal challenge timeline.</p>
         <p>Sources: Travis Central Appraisal District; Texas Comptroller’s Office.</p>
       </div>
     </div>
