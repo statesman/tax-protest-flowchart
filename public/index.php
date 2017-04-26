@@ -66,12 +66,11 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
+        <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a></li>
       </ul>
         <ul class="nav navbar-nav navbar-right social hidden-xs">
           <li><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a></li>
           <li><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a></li>
-          <li><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
         </ul>
     </div>
   </div>
@@ -81,8 +80,8 @@
     <div class="row">
       <div class="col-xs-12 header">
         <h1>Here’s how to protest your property tax appraisal</h1>
-        <p>Published Sunday, May 10, 2015. Updated Monday, May 2, 2016.</p>
-        <p class="author">By Andra Lim, Bridget Grumet, Andrew Chavez and Christian McDonald</p>
+        <p>Updated April 26, 2017</p>
+        <p class="author">By <a href="//twitter.com/aasinteractive">Statesman Interactives</a></p>
         <p>If you’re still reeling from the sticker shock of this year’s property appraisal notice, you may be considering challenging the appraisal. You could hire a firm to handle the challenge for you; typically they only get paid if they succeed in cutting your taxable value. Or you could handle the challenge yourself. Here’s how the process works:</p>
         <p><span>Related:</span> <a target="_blank" href="http://www.mystatesman.com/news/news/local/rising-up-in-protest-why-most-appraisal-challenges/nmCs6/#69d6ad93.257250.735730">Rising up in protest: Why most appraisal challenges in Austin succeed <i class="fa fa-angle-double-right"></i></a></p>
       </div>
@@ -135,7 +134,7 @@
         <h2>The envelope, please</h2>
         <h3>Late April/early May</h3>
         <p>A piece of mail arrives from the appraisal district, telling you the value of your home for tax purposes. Look over the numbers carefully. If your property is not described correctly or if the value looks out of whack, you can protest it.</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>404,647</strong></p><p>Number of notices mailed to Travis County property owners in 2015.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>417,717</strong></p><p>Number of notices mailed to Travis County property owners in 2016.</p></div>
       </div>
     </div>
 
@@ -149,16 +148,16 @@
         <p>This is the deadline for filing a “Notice of Protest” of your appraised value. What’s the best way to file? You have a couple of options. You can use the form on the back of the “Notice of Appraised Value” that you received from the appraisal district, since it already has your account information printed on it. Or you may be able to file your protest online. In Travis County, go to <a href="http://www.traviscad.org"> traviscad.org</a> and click on E-File. Williamson County residents can go to <a href="www.wcad.org">wcad.org</a> and click on “Online Protests,” while Hays County residents can do the same at <a href="http://www.hayscad.com">hayscad.com</a>. The benefit of online protesting is that appraisal district staffers can review your information and decide whether to offer you a settlement, potentially <a href="http://www.traviscad.org/video/eFile/how_to_efile_player.html">without you having to attend a hearing at all</a>.</p>
         <p>As you’re filling out the form, pay particular attention to the step in which you check off the box or boxes stating the reason for your protest. Your choices here will affect what kind of evidence you can present later on. If the district listed the wrong square footage for your home, for instance, be sure to check “property description is incorrect.” If you think your value is out of step with similar homes, make sure to mark “Value is unequal compared with other properties.”</p>
         <p>For typical homeowners challenging their appraisal, the Texas Comptroller’s office suggests checking “Value is over market value” and “Value is unequal compared with other properties.” That will “allow you to present the widest types of evidence and preserve your full appeal rights,” the agency says in its handout on “<a href="http://www.window.state.tx.us/taxinfo/proptax/pdf/96-295.pdf">Property Taxpayer Remedies</a>.”</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>107,977</strong></p><p>The number of protests initiated in Travis County in 2015.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>115,773</strong></p><p>The number of protests initiated in Travis County in 2016.</p></div>
        </div>
     </div>
 
     <div id="step4" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
         <img class="img-responsive" src="assets/step04-hearing01.jpg" />
-        <p class="caption"> <!-- 6/27/03 Staff Photo by Sung Park/AMERICAN-STATESMAN A line of people wait for an informal hearing to contest the new appraisals at the Travis County Appraisal District. --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</span></p>
+        <p class="caption"> <span class="credit pull-right">AMERICAN-STATESMAN FILE 2003</span></p>
         <div class="hidden-xs"><img class="img-responsive" src="assets/step04-informal.jpg" />
-        <p class="caption"><!-- David Kennedy/AA-S  5/19/00 Tax appraisals at the Travis Central Appraisal District office David Kuenneke, left, protest his property tax appraisal in  an informal hearing with appraiser Greg Mahan.  --><span class="credit pull-right">AMERICAN-STATESMAN FILE 2000</span></p></div>
+        <p class="caption"><span class="credit pull-right">AMERICAN-STATESMAN FILE 2000</span></p></div>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Step 2: Meet with the appraiser</h2>
@@ -167,7 +166,7 @@
         <p>Once you’ve filed your “Notice of Protest,” the Travis Central Appraisal District will send you a letter with two dates: an informal meeting with an appraisal staffer and your formal hearing date with the ARB, a group of independent residents appointed to hear these challenges. During the informal meeting, the staffer will review the numbers with you. Bring all of your documentation: Information on comparable homes (records are available on the appraisal district’s website), perhaps an independent appraisal if you recently refinanced your house, or photos, repair estimates and other records showing damage that may devalue your home. Once you and a staffer have hashed it out, the district may offer to reduce your value by a certain amount. If you’re satisfied, you can accept it.</p>
         <p>If not, you can keep your date with the ARB, or technically, with a three-member panel of ARB members. Before that hearing, you have a right to see all of the information the district appraisers plan to present, so be sure to contact the appraisal district to request those documents.</p>
         <p>In Travis County, typically two weeks pass between the informal meeting with staff and the ARB hearing. In Williamson and Hays counties, that meeting with a staffer usually happens the same day as the ARB hearing. Either way, the same process applies: If you’re satisfied with the outcome after meeting with the staffer, you can forego the ARB hearing.</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>62%</strong></p><p>The percentage of howeowners who hired an agent to represent them in assessment protests in 2015.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>68%</strong></p><p>The percentage of homeowners who hired an agent to represent them in assessment protests in 2016.</p></div>
        </div>
     </div>
 
@@ -180,21 +179,21 @@
         <h2>The big day</h2>
         <p>If you take your case to the ARB, come prepared and expect a rapid-fire proceeding. The entire hearing will likely take 15 to 30 minutes. In that time you will be placed under oath and given a chance to present any evidence or witnesses supporting your case. You must conclude by stating the figure you believe your property is worth. Someone from the appraisal district will likely question you and provide additional evidence. Then you can question the appraiser or any witnesses presented by the appraisal district. Members of the ARB can ask clarifying questions, too. Finally, each side gets to make a closing statement, so once again you’ll want to reiterate what you believe your property is worth and why. The three-member panel will discuss the case and reach a recommended value.</p>
         <p><span>The big day:</span> The full ARB will review the recommendation of the three-person panel and approve your final assessed value. You’ll get a certified letter in the mail with the decision.</p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$13,649</strong></p><p>The median amount of valuation reduced from residential properties through protest in 2015. The average was $30,467.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$15,595</strong></p><p>The median amount of valuation reduced from residential properties through protest in 2016. The average was $30,685.</p></div>
        </div>
     </div>
 
     <div id="step6" class="step row">
       <div class="col-xs-12 col-sm-3 col-md-4">
         <img class="img-responsive" src="assets/step06-book.jpg" />
-        <p class="caption"><!-- JUNE 2, 2014 -  A book titled, Real Estate Appraisal sits on an audience member's desk at Travis County Commissioners Court in Austin, Texas, on Monday, June 2, 2014.  Commissioners court went into executive session to discuss the petition to review appraisals. (RODOLFO GONZALEZ / AMERICAN-STATESMAN) --><span class="credit pull-right">Rodolfo Gonzalez / AMERICAN-STATESMAN</span></p>
+        <p class="caption"><span class="credit pull-right">Rodolfo Gonzalez / AMERICAN-STATESMAN</span></p>
       </div>
       <div class="col-xs-12 col-sm-9 col-md-8">
         <h2>Still not satisfied?</h2>
         <h3>August</h3>
         <p>Protest hearings typically wrap up by now. But you still have recourse if you’re not satisfied with the ARB decision. If your property is valued at less than $1 million, or if it’s your homestead, regardless of value, you can take your case to binding arbitration. There’s a <a href="http://www.window.state.tx.us/taxinfo/taxforms/ap-219.pdf">form for that</a>, too. You’ll need to file that within 45 days of receiving the ARB decision, and it’ll cost you $500. All but $50 of that will be refunded if you prevail.</p>
         <p>There are two alternatives to arbitration. You can take your appeal to state district court (that challenge must be filed within 60 days of receiving the ARB decision, and you’ll likely need an attorney’s help). Or for properties valued over $ 1 million, you can file an appeal with the State Office of Administrative Hearings (that challenge must be filed within 30 days of receiving the ARB decision). </p>
-        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$6.9B</strong></p><p>The amount of valuation shaved off of Travis County tax rolls through the protest process in 2015. Residential protests accounted for nearly $2.2 billion of that.</p></div>
+        <div class="well"><i class="fa fa-home fa-5x"></i><p><strong>$9.4B</strong></p><p>The amount of valuation shaved off of Travis County tax rolls through the protest process in 2016. Residential protests accounted for nearly $2.25 billion of that.</p></div>
        </div>
     </div>
 
