@@ -9,7 +9,7 @@ module.exports = function(grunt) {
     // Copy FontAwesome files to the fonts/ directory
     copy: {
       fonts: {
-        src: 'bower_components/font-awesome/fonts/**',
+        src: 'node_modules/font-awesome/fonts/**',
         dest: 'public/fonts/',
         flatten: true,
         expand: true
@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     less: {
       options: {
         sourceMap: true,
-        paths: ['bower_components/bootstrap/less']
+        paths: ['node_modules/bootstrap/less']
       },
       prod: {
         options: {
@@ -48,12 +48,12 @@ module.exports = function(grunt) {
       prod: {
         files: {
           'public/dist/scripts.js': [
-            'bower_components/jquery/dist/jquery.js',
-            'bower_components/bootstrap/js/button.js',
-            'bower_components/bootstrap/js/collapse.js',
-            'bower_components/bootstrap/js/dropdown.js',
-            'bower_components/bootstrap/js/transition.js',
-            'bower_components/bootstrap/js/scrollspy.js',
+            'node_modules/jquery/dist/jquery.js',
+            'node_modules/bootstrap/js/button.js',
+            'node_modules/bootstrap/js/collapse.js',
+            'node_modules/bootstrap/js/dropdown.js',
+            'node_modules/bootstrap/js/transition.js',
+            'node_modules/bootstrap/js/scrollspy.js',
             'src/js/main.js'
           ]
         }
@@ -94,7 +94,7 @@ module.exports = function(grunt) {
     ftpush: {
       stage: {
         auth: {
-          host: 'host.coxmediagroup.com',
+          host: 'cmgdtcpxahost.cmg.int',
           port: 21,
           authKey: 'cmg'
         },
@@ -107,7 +107,7 @@ module.exports = function(grunt) {
       // prod path will need to change
       prod: {
         auth: {
-          host: 'host.coxmediagroup.com',
+          host: 'cmgdtcpxahost.cmg.int',
           port: 21,
           authKey: 'cmg'
         },
