@@ -5,8 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "Protesting your tax assessment",
-    "description" => "A flowchart on the process to protest tax evaluations by Travis Central Appraisal District.",
+    "title" => "Protesting your property tax appraisal",
+    "description" => "A flowchart on the process to protest property tax appraisal by Travis Central Appraisal District.",
     "thumbnail" => "http://projects.statesman.com/news/tax-protest-flowchart/assets/share.jpg", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
