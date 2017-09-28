@@ -45,7 +45,8 @@
 
   <?php /* CMG advertising and analytics */ ?>
   <?php include "includes/advertising.inc"; ?>
-  <?php include "includes/metrics-head.inc"; ?>
+  <?php include "includes/cmg-head-metadata.inc"; ?>
+  <?php include "includes/cmg-head-metrics.inc"; ?>
 
 </head>
 <body>
@@ -218,8 +219,7 @@
   <!-- bottom matter -->
   <?php include "includes/banner-ad.inc";?>
   <?php include "includes/legal.inc";?>
-  <?php include "includes/project-metrics.inc"; ?>
-  <?php include "includes/metrics.inc"; ?>
+  <?php include "includes/cmg-body-scripts.inc"; ?>
 
   <script src="dist/scripts.js"></script>
 
