@@ -7,10 +7,10 @@
   $meta = array(
     "title" => "Protesting your property tax appraisal",
     "description" => "A flowchart on the process to protest property tax appraisal by Travis Central Appraisal District.",
-    "thumbnail" => "http://projects.statesman.com/news/tax-protest-flowchart/assets/share.jpg", // needs update
-    "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
-    "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
-    "url" => "http://projects.statesman.com/news/tax-protest-flowchart/",
+    "thumbnail" => "https://projects.statesman.com/news/tax-protest-flowchart/assets/share.jpg", // needs update
+    "shortcut_icon" => "https://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
+    "apple_touch_icon" => "https://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
+    "url" => "https://projects.statesman.com/news/tax-protest-flowchart/",
     "twitter" => "statesman"
   );
 ?>
@@ -38,9 +38,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="dist/style.css">
 
-  <link href='http://fonts.googleapis.com/css?family=Lusitana:400,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic,400italic,700italic,700,800,800italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lusitana:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic,400italic,700italic,700,800,800italic' rel='stylesheet' type='text/css'>
 
 
   <?php /* CMG advertising and analytics */ ?>
@@ -60,7 +60,7 @@
         <span class="icon-bar"></span>
       </button>
 
-        <a class="navbar-brand" href="http://www.statesman.com/" target="_blank">
+        <a class="navbar-brand" href="//www.statesman.com/" target="_blank">
         <img class="visible-xs visible-sm" width="103" height="26" src="assets/logo-short-black.png" />
         <img class="hidden-xs hidden-sm" width="273" height="26" src="assets/logo.png" />
         </a>
@@ -84,7 +84,7 @@
         <p>Updated April 4, 2018</p>
         <p class="author">By <a href="//twitter.com/aasinteractive">Statesman Interactives</a></p>
         <p>If you’re still reeling from the sticker shock of this year’s property appraisal notice, you may be considering challenging the appraisal. You could hire a firm to handle the challenge for you; typically they only get paid if they succeed in cutting your taxable value. Or you could handle the challenge yourself. Here’s how the process works:</p>
-        <p><span>Related:</span> <a target="_blank" href="http://www.mystatesman.com/news/news/local/rising-up-in-protest-why-most-appraisal-challenges/nmCs6/#69d6ad93.257250.735730">Rising up in protest: Why most appraisal challenges in Austin succeed <i class="fa fa-angle-double-right"></i></a></p>
+        <p><span>Related:</span> <a target="_blank" href="//www.mystatesman.com/news/news/local/rising-up-in-protest-why-most-appraisal-challenges/nmCs6/#69d6ad93.257250.735730">Rising up in protest: Why most appraisal challenges in Austin succeed <i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <?php $dots = array(
